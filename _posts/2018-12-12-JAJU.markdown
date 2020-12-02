@@ -11,5 +11,4 @@ project-date: Dec 2018
 client: 신세계인터네셔날
 category: 상공간
 description: 위례 스타필드 1층에 위치한 JAJU 매장 시공 사례입니다.
-
 ---
