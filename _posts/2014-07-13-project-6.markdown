@@ -1,15 +1,15 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: JAJU(위례스타필드)
+subtitle: plank oak brush
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2018-12
+img: jaju_02.jpeg
+thumbnail: jaju_01.jpeg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Dec 2018
+client: 신세계인터네셔날
+category: 상공간
+description: 위례 스타필드 1층에 위치한 JAJU 매장 시공 사례입니다.
 
 ---
