@@ -2,7 +2,7 @@
 title: JAJU(위례스타필드)
 subtitle: plank oak brush
 layout: default
-modal-id: 1
+modal-id: 2
 date: 2018-12-12
 img: jaju.png
 thumbnail: jaju-thumbnail.png
