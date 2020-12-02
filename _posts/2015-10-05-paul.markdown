@@ -4,8 +4,8 @@ subtitle: chevron
 layout: default
 modal-id: 2
 date: 2015-10-05
-img: PaulBasset.png
-thumbnail: PaulBasset-thumbnail.png
+img: paulbasset.png
+thumbnail: paulbasset-thumbnail.png
 alt: image-alt
 project-date: Oct 2015
 client: PaulBasset
