@@ -1,10 +1,17 @@
 ---
 layout: post
-title:  xylo
+title:  Xylo
 date:   2018-08-23 16:05:55 +0300
 image:  01.jpg
 tags:   [Lifehacks]
 ---
+자일로는 ~
+어쩌고 저쩌고 ~
+이준필님이 대표고~
+어쩌고 저쩌고~
+
+나 이준필이야~~
+
 Meditation tacos narwhal gochujang, shaman ramps green vegan humblebrag whatever microdosing juice poutine migas occupy fingerstache kickstarter disrupt brunch. Lorem ipsum dolor amet pok pok sriracha drinking vinegar, kogi chia gochujang bicycle rights gentrify shabby chic fingerstache chillwave four loko poke yuccie. La croix hashtag umami, put a bird on it leggings semiotics you probably haven't heard of them wolf iPhone. Beard portland sustainable poke pinterest messenger bag helvetica 8-bit cray. Keffiyeh PBR&B helvetica organic palo santo, art party pop-up letterpress next level VHS selvage snackwave tumblr deep v. Wayfarers irony ramps, flannel shaman drinking vinegar mumblecore tacos single-origin coffee art party lomo master cleanse cardigan taiyaki.
 
 Retro activated charcoal mustache selvage sartorial four loko brooklyn woke dreamcatcher lyft migas VHS. Bitters celiac flannel schlitz aesthetic echo park polaroid. Hella lyft selvage enamel pin banjo before they sold out retro quinoa taiyaki freegan hexagon edison bulb prism. Everyday carry 8-bit actually, godard bitters lomo echo park kickstarter tilde.
