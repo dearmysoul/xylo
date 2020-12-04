@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 date: 2015-10-05
 img: paulbasset.png
-thumbnail: paulbasset-thumbnail.png
+thumbnail: paul-thumbmail.jpg
 alt: image-alt
 project-date: Oct 2015
 client: PaulBasset
