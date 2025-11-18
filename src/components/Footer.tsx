@@ -8,7 +8,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <h3 className="text-[#F5E6D3] mb-4" style={{ fontFamily: 'serif', letterSpacing: '0.1em' }}>
-              BUNKR
+              XYLO
             </h3>
             <p className="text-[#F5E6D3] opacity-80">
               Premium wood flooring crafted with passion and precision since 1998.
@@ -25,7 +25,7 @@ export function Footer() {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-[#C9A86A]" />
-                <span className="text-[#F5E6D3] opacity-80">info@bunkrflooring.com</span>
+                <span className="text-[#F5E6D3] opacity-80">info@xyloflooring.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <MapPin className="w-5 h-5 text-[#C9A86A]" />
@@ -59,7 +59,7 @@ export function Footer() {
         {/* Bottom */}
         <div className="pt-8 border-t-2 border-[#C9A86A]/30 text-center">
           <p className="text-[#F5E6D3] opacity-60">
-            © 2025 BUNKR Flooring. All rights reserved.
+            © 2025 XYLO Flooring. All rights reserved.
           </p>
         </div>
       </div>

@@ -19,7 +19,7 @@ export function SocialFeed() {
             <Instagram className="w-8 h-8 text-[#F5E6D3]" />
             <h2 className="text-[#F5E6D3]">Follow Our Journey</h2>
           </div>
-          <p className="text-[#F5E6D3] opacity-80">@bunkr_flooring</p>
+          <p className="text-[#F5E6D3] opacity-80">@xylo_flooring</p>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
