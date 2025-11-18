@@ -36,7 +36,7 @@ export function Navigation() {
           className="text-[#F5E6D3] transition-opacity hover:opacity-80"
           style={{ fontFamily: 'serif', fontSize: '2rem', letterSpacing: '0.1em' }}
         >
-          BUNKR
+          XYLO
         </button>
 
         {/* Navigation Links */}

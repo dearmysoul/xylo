@@ -17,7 +17,7 @@ export function HeroSection() {
       {/* Content */}
       <div className="relative z-10 text-center px-4">
         <h1 className="text-[#F5E6D3] mb-8" style={{ fontFamily: 'serif', fontSize: '8rem', letterSpacing: '0.1em' }}>
-          BUNKR
+          XYLO
         </h1>
         <p className="text-[#F5E6D3] max-w-2xl mx-auto opacity-90">
           Crafting timeless elegance through premium wood flooring solutions. 
