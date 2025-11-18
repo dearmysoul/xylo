@@ -42,32 +42,38 @@ export function Navigation() {
         {/* Navigation Links */}
         <div className="flex items-center gap-8">
           <button
-            onClick={() => scrollToSection("services")}
-            className="text-[#F5E6D3] transition-colors hover:text-[#C9A86A]"
-          >
-            Service
-          </button>
-          <button
-            onClick={() => scrollToSection("gallery")}
-            className="text-[#F5E6D3] transition-colors hover:text-[#C9A86A]"
-          >
-            Gallery
-          </button>
-          <button
             onClick={() => scrollToSection("about")}
             className="text-[#F5E6D3] transition-colors hover:text-[#C9A86A]"
           >
-            About
+            회사소개
           </button>
           <button
-            onClick={() => scrollToSection("partner")}
+            onClick={() => scrollToSection("services")}
+            className="text-[#F5E6D3] transition-colors hover:text-[#C9A86A]"
+          >
+            서비스
+          </button>
+          <button
+            onClick={() => scrollToSection("portfolio")}
+            className="text-[#F5E6D3] transition-colors hover:text-[#C9A86A]"
+          >
+            시공사례
+          </button>
+          <button
+            onClick={() => scrollToSection("testimonials")}
+            className="text-[#F5E6D3] transition-colors hover:text-[#C9A86A]"
+          >
+            고객후기
+          </button>
+          <button
+            onClick={() => scrollToSection("contact")}
             className="px-6 py-2 rounded-full transition-all duration-300 hover:scale-105"
             style={{
               backgroundColor: '#C9A86A',
               color: '#4A0E1A'
             }}
           >
-            Partner
+            문의하기
           </button>
         </div>
       </div>

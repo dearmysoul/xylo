@@ -5,28 +5,42 @@ export function PortfolioGallery() {
     {
       id: 1,
       image: "https://images.unsplash.com/photo-1690310588514-511dfaf88e3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3b29kJTIwZmxvb3IlMjBsaXZpbmclMjByb29tfGVufDF8fHx8MTc2MzQ1MDAwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      title: "Modern Living Space",
-      description: "Oak hardwood with natural finish"
+      title: "강남 아파트 리모델링",
+      location: "서울 강남구",
+      area: "35평",
+      material: "유럽산 오크 원목 마루",
+      type: "주거 공간"
     },
     {
       id: 2,
       image: "https://images.unsplash.com/photo-1693948568453-a3564f179a84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoYXJkd29vZCUyMGZsb29yaW5nJTIwaW5zdGFsbGF0aW9ufGVufDF8fHx8MTc2MzQ0MzA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      title: "Expert Installation",
-      description: "Precision craftsmanship"
+      title: "홍대 카페 시공",
+      location: "서울 마포구",
+      area: "25평",
+      material: "강화 마루 (내구성 강화)",
+      type: "상업 공간"
     },
     {
       id: 3,
       image: "https://images.unsplash.com/photo-1690310588789-8fcee016f619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwd29vZCUyMGZsb29yJTIwYmVkcm9vbXxlbnwxfHx8fDE3NjM0NTAwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      title: "Elegant Bedroom",
-      description: "Walnut parquet flooring"
+      title: "판교 단독주택",
+      location: "경기 성남시",
+      area: "50평",
+      material: "월넛 파케트 마루",
+      type: "주거 공간"
     }
   ];
 
   return (
-    <section id="gallery" className="py-24" style={{ backgroundColor: '#5C1626' }}>
+    <section id="portfolio" className="py-24" style={{ backgroundColor: '#5C1626' }}>
       <div className="max-w-7xl mx-auto px-4">
-        <h2 className="text-[#F5E6D3] text-center mb-16">Our Work</h2>
-        
+        <h2 className="text-[#F5E6D3] text-center mb-6 text-4xl" style={{ fontFamily: 'serif', letterSpacing: '0.05em' }}>
+          시공 사례
+        </h2>
+        <p className="text-[#F5E6D3] text-center mb-16 opacity-80">
+          XYLO의 시공 사례를 확인해보세요
+        </p>
+
         <div className="grid md:grid-cols-3 gap-8">
           {projects.map((project) => (
             <div key={project.id} className="group relative overflow-hidden rounded-lg aspect-[4/3]">
@@ -35,10 +49,17 @@ export function PortfolioGallery() {
                 alt={project.title}
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <div className="absolute bottom-0 left-0 right-0 p-6">
-                  <h3 className="text-[#F5E6D3] mb-2">{project.title}</h3>
-                  <p className="text-[#F5E6D3] opacity-80">{project.description}</p>
+                  <div className="inline-block px-3 py-1 rounded-full text-xs mb-3" style={{ backgroundColor: '#C9A86A', color: '#4A0E1A' }}>
+                    {project.type}
+                  </div>
+                  <h3 className="text-[#F5E6D3] mb-2 font-bold text-xl">{project.title}</h3>
+                  <div className="text-[#F5E6D3] opacity-80 text-sm space-y-1">
+                    <p>📍 {project.location}</p>
+                    <p>📐 {project.area}</p>
+                    <p>🌳 {project.material}</p>
+                  </div>
                 </div>
               </div>
             </div>
