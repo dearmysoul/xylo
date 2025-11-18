@@ -1,30 +1,11 @@
-Agency Jekyll theme
-====================
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+  # Wood Flooring Company Homepage
 
-# How to use
+  This is a code bundle for Wood Flooring Company Homepage. The original project is available at https://www.figma.com/design/RszXoLnFKiXK5FxV9TwuAs/Wood-Flooring-Company-Homepage.
 
-###Portfolio 
+  ## Running the code
 
-Portfolio projects are in '/_posts'
+  Run `npm i` to install the dependencies.
 
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+  Run `npm run dev` to start the development server.
+  
