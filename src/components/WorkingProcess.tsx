@@ -40,7 +40,7 @@ export function WorkingProcess() {
       id: 7,
       icon: "🛠️",
       title: "사후관리",
-      description: "정기 점검 → A/S 대응 → 평생 상담"
+      description: "점검 → A/S 대응 → 상담"
     }
   ];
 
