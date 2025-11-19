@@ -28,7 +28,7 @@ export function ServicesSection() {
       icon: Package,
       title: "자재 공급",
       subtitle: "검증된 프리미엄 자재만",
-      description: "유럽산 원목 마루 · 강화 마루 (국내외 인증) · 친환경 접착제/마감재 · 다양한 디자인 샘플"
+      description: "수입 원목 마루 · 강마루 (국내외 인증) · 친환경 접착제/마감재 · 다양한 디자인 샘플"
     }
   ];
 
