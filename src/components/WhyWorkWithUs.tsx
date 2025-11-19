@@ -19,7 +19,7 @@ export function WhyWorkWithUs() {
     {
       title: "품질 보증",
       items: [
-        "10년 무상 보증",
+        "1년 무상 보증",
         "빠른 A/S 대응",
         "평생 유지보수 상담"
       ]
