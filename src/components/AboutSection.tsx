@@ -43,7 +43,7 @@ export function AboutSection() {
             <div className="w-16 h-16 mx-auto mb-6 rounded-full flex items-center justify-center" style={{ backgroundColor: '#C9A86A' }}>
               <span className="text-2xl">✧</span>
             </div>
-            <h3 className="text-[#F5E6D3] mb-4 font-bold">10년 품질 보증</h3>
+            <h3 className="text-[#F5E6D3] mb-4 font-bold">품질 보증</h3>
             <p className="text-[#F5E6D3] opacity-80">
               확실한 보증으로<br />안심 시공
             </p>
