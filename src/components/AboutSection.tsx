@@ -55,7 +55,7 @@ export function AboutSection() {
             </div>
             <h3 className="text-[#F5E6D3] mb-4 font-bold">신속한 A/S</h3>
             <p className="text-[#F5E6D3] opacity-80">
-              빠른 대응으로<br />평생 관리
+              빠른 대응으로<br /> 관리
             </p>
           </div>
         </div>
