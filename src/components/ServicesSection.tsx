@@ -21,7 +21,7 @@ export function ServicesSection() {
       icon: Shield,
       title: "사후관리 (A/S)",
       subtitle: "시공 후에도 책임집니다",
-      description: "10년 품질 보증 · 빠른 A/S 접수 대응 · 무상 보수 (보증 기간 내) · 평생 유지보수 상담"
+      description: "1년 품질 보증 · 빠른 A/S 접수 대응 · 무상 보수 (보증 기간 내) · 유지보수 상담"
     },
     {
       id: 4,
