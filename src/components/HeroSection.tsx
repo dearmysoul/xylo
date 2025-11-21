@@ -7,7 +7,7 @@ export function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <ImageWithFallback
-          src="/img/main_02.png"
+          src="https://dearmysoul.cafe24.com/xylo/main_02.png"
           alt="Luxury wood flooring"
           className="w-full h-full object-cover"
         />

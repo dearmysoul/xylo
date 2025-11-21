@@ -1,4 +1,4 @@
-![Header](img/main_02.png)
+![Header](https://dearmysoul.cafe24.com/xylo/main_02.png)
 
   # Wood Flooring Company Homepage
 
