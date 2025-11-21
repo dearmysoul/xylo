@@ -1,7 +1,7 @@
 
   # Wood Flooring Company Homepage
 
-  This is a code bundle for Wood Flooring Company Homepage. The original project is available at https://www.figma.com/design/RszXoLnFKiXK5FxV9TwuAs/Wood-Flooring-Company-Homepage.
+  This is a code bundle for Wood Flooring Company Homepage.
 
   ## Running the code
 
