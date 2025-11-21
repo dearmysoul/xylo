@@ -3,12 +3,12 @@ import { Instagram } from "lucide-react";
 
 export function SocialFeed() {
   const images = [
-    "https://images.unsplash.com/photo-1758448511348-54b10c30239f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
-    "https://images.unsplash.com/photo-1690310588514-511dfaf88e3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
-    "https://images.unsplash.com/photo-1693948568453-a3564f179a84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
-    "https://images.unsplash.com/photo-1690310588789-8fcee016f619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
-    "https://images.unsplash.com/photo-1642942552674-8302b1123460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400",
-    "https://images.unsplash.com/photo-1693722232517-9c19a620258c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400"
+    "/img/portfolio/paulbasset-thumbnail.png",
+    "/img/portfolio/jaju-thumbnail.png",
+    "/img/portfolio/IMG_7559-thumbnail.jpg",
+    "/img/about/1.jpg",
+    "/img/about/2.jpg",
+    "/img/about/3.jpg"
   ];
 
   return (

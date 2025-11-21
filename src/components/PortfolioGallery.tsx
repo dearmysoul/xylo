@@ -4,7 +4,7 @@ export function PortfolioGallery() {
   const projects = [
     {
       id: 1,
-      image: "https://images.unsplash.com/photo-1690310588514-511dfaf88e3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3b29kJTIwZmxvb3IlMjBsaXZpbmclMjByb29tfGVufDF8fHx8MTc2MzQ1MDAwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      image: "/img/portfolio/paulbasset.png",
       title: "강남 아파트 리모델링",
       location: "서울 강남구",
       area: "35평",
@@ -13,7 +13,7 @@ export function PortfolioGallery() {
     },
     {
       id: 2,
-      image: "https://images.unsplash.com/photo-1693948568453-a3564f179a84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxoYXJkd29vZCUyMGZsb29yaW5nJTIwaW5zdGFsbGF0aW9ufGVufDF8fHx8MTc2MzQ0MzA4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      image: "/img/portfolio/jaju.png",
       title: "홍대 카페 시공",
       location: "서울 마포구",
       area: "25평",
@@ -22,7 +22,7 @@ export function PortfolioGallery() {
     },
     {
       id: 3,
-      image: "https://images.unsplash.com/photo-1690310588789-8fcee016f619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxlbGVnYW50JTIwd29vZCUyMGZsb29yJTIwYmVkcm9vbXxlbnwxfHx8fDE3NjM0NTAwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      image: "/img/about/1.jpg",
       title: "판교 단독주택",
       location: "경기 성남시",
       area: "50평",
