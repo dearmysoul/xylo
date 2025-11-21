@@ -7,7 +7,7 @@ export function HeroSection() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <ImageWithFallback
-          src="https://images.unsplash.com/photo-1758448511348-54b10c30239f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsdXh1cnklMjB3b29kJTIwZmxvb3JpbmclMjBpbnRlcmlvcnxlbnwxfHx8fDE3NjM0NTAwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080"
+          src="/img/main_02.png"
           alt="Luxury wood flooring"
           className="w-full h-full object-cover"
         />
