@@ -1,3 +1,4 @@
+![Header](img/main_02.png)
 
   # Wood Flooring Company Homepage
 
